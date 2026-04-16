@@ -1,0 +1,5 @@
+streamlit
+numpy>=1.26
+pandas
+scikit-learn
+gdown
